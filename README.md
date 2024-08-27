@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IceburgLettuce17
 - 👀 I’m interested in Unity Games, Decompiling, and the like.
-- 🌱 I’m currently learning how to extract a jar file from a mobile gameloft game
+- 🌱 I’m currently learning how to  decompile a Unity 2020.3 based game
 - 💞️ I’m looking to collaborate on nothing  
 - 😄 Pronouns: they/them
 
