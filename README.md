@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to extract sprites from Gameloft games
 - 💞️ I’m looking to collaborate on nothing  
 - 😄 Pronouns: they/them
-- GLLIB SOURCE IS DROPPING TOMORROW
+- 🎉 GLLIB SOURCE IS DROPPING TOMORROW
 
 <!---
 IceburgLettuce17/IceburgLettuce17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
