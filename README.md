@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to extract sprites from Gameloft games
 - 💞️ I’m looking to collaborate on nothing  
 - 😄 Pronouns: they/them
-- 🎉 IT HAS DROPPEED
+- 🎉 IT HAS DROPPED
 
 <!---
 IceburgLettuce17/IceburgLettuce17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
