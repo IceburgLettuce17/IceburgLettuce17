@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to extract sprites from Gameloft games
 - 💞️ I’m looking to collaborate on nothing  
 - 😄 Pronouns: they/them
-- Don't ask me about GL_Lib source
+- Don't ask me about GLLib source, and don't ask me why people put an underscore (_) before Lib and after GL
 
 <!---
 IceburgLettuce17/IceburgLettuce17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
