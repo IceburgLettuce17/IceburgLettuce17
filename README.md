@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IceburgLettuce17
 - 👀 I’m interested in Unity Games, Decompiling, and the like.
 - 🌱 I’m currently learning about how GLLib works
-- 💞️ I’m looking to collaborate on nothing  
+- 💞️ I’m looking to collaborate on Gameloft decomp projects  
 - 😄 Pronouns: they/them
 - Don't ask me about GLLib source, and don't ask me why people put an underscore (_) before Lib and after GL. Also don't ask me why people say "Jee Ell lib"
 
