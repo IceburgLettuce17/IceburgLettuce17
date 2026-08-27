@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about how GLLib works
 - 💞️ I’m looking to collaborate on Gameloft decomp projects  
 - 😄 Pronouns: they/them
-- Don't ask me about GLLib source, and don't ask me why people put an underscore (_) before Lib and after GL. Also don't ask me why people say "Jee Ell lib"
 
 <!---
 IceburgLettuce17/IceburgLettuce17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
